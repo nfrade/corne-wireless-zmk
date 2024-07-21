@@ -23,7 +23,7 @@
         };
 
         right_hand_lower {
-            bindings = <&tog 1>;
+            bindings = <&mo 1>;
             key-positions = <40 41>;
         };
     };
